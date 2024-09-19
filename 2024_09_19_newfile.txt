@@ -1,1 +1,2 @@
 This is the new file created in the GIT.
+adding a new line to the file.
