@@ -1,0 +1,37 @@
+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
+
+https://github.com/arunrai1602/mygitrepo - Public repo
+
+http://13.233.96.244:8080/login?from=%2F - Jenkins link
+
+https://github.com/akshu20791/Deployment-script
+
+addressbook-cicd-project
+https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.100/bin/apache-tomcat-8.5.100.zip - For tomcat download
+
+https://raw.githubusercontent.com/akshu20791/Deployment-script/main/jenkins.sh
+
+http://51.20.106.28:8080 - Jenkins terminal
+
+https://drive.google.com/drive/folders/1nmqqxfu76B6vKExRu3B4zNq_Vtz__H_d?usp=sharing
+
+https://github.com/akshu20791/addressbook-cicd-project/
+
+/home/ubuntu/apache-tomcat-8.5.100/webapps
+/var/lib/jenkins/workspace/code package/target/addressbook.war
+https://github.com/akshu20791/cicd-project2
+http://44.208.21.141:8996/
+https://github.com/akshu20791/Deployment-script/blob/main/readme-k8s
+https://raw.githubusercontent.com/akshu20791/Deployment-script/main/k8s-master.sh
+
+kubeadm join 172.31.21.231:6443 --cri-socket unix:///var/run/cri-dockerd.sock --token nsredn.1lhlzc82x6giwd01 --discovery-token-ca-cert-hash sha256:580a2dff7f2499b3cd434ad9558089966fbd8ece1392f3bdd6cbb0d5458e5f1c 
+
+kubeadm join 172.31.22.151:6443 --cri-socket unix:///var/run/cri-dockerd.sock --token ko3aos.y6acavn518fvlogs --discovery-token-ca-cert-hash sha256:8e14b765fbeccee16f6db5cbb68d37f6989a31615e396649acb7b781ffa59b47 
+
+
+database-1.crka0ayi4iof.us-east-1.rds.amazonaws.com
+
+To install AWS CLI:-
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
